@@ -66,6 +66,11 @@
 	<artifactId>jaxen</artifactId>
 	<version>${jaxen.version}</version>
 </dependency>
+<dependency>
+  <groupId>me.chanjar</groupId>
+  <artifactId>weixin-java-mp</artifactId>
+  <version>1.1.4</version>
+</dependency>
 	</dependencies>
 	<properties>
 		<joda.version>2.7</joda.version>
